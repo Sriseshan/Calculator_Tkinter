@@ -26,7 +26,7 @@ def btn_clear():
     global expression
     expression = ""
     input_text.set("")
-
+print("hiiii")
 # 3. Third and the final function is button equal ("=") 'btn_equal' function which will calculate the expression present in input field. For example: User clicks button 2, + and 3 then clicks "=" will result in an output 5.
 def btn_equal():
     global expression
