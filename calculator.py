@@ -10,7 +10,7 @@ window.geometry("347x423")
 #window.resizable(0, 0)
 
 #Finally, define the title of the window
-window.title("Calculator")
+window.title("Calculatorss")
 
 
 # Let's now define the required functions for the Calculator to function properly.
